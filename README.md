@@ -1,15 +1,7 @@
----
-title: "Hello-World"
-author: "W. Kaisers"
-date: "04.11.2014"
-output:
-    html_document:
-        theme: default
-        toc: true
-        toc_depth: 3
-        number_sections: true
-        highlight: null
----
+# Header
+
+ - Hello-World project on GitHub.
+ - Date: 04.11.2014
 
 
 --------------------------------------------------------------------------------
